@@ -32,7 +32,7 @@ MyHub is a general-purpose productivity app and does not knowingly collect perso
 
 ## Changes to this policy
 
-This policy may be updated when the app's data practices change. The latest version will be published at the privacy policy URL listed on the App Store.
+This policy may be updated when the app's data practices change. The latest version will be published at the privacy policy URL listed on Google Play and the App Store.
 
 ## Contact
 
